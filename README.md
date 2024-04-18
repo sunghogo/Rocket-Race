@@ -8,7 +8,7 @@
 
 #### SPACE: Thrust
 
-#### Esc: Exit
+#### ESC: Exit
 
-Play Link:
+## Play Link:
 https://sunghogo.github.io/Rocket-Race/
